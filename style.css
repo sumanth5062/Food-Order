@@ -1,0 +1,25 @@
+.bg-image {
+    background-image: url("C:/Users/sumanth/OneDrive/Desktop/html/frontend/Food Order Page/Food-Pic.avif");
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    font-family: Bree Serif;
+}
+
+.container {
+    color: white;
+    font-family: Roboto;
+    background-color:black;
+    margin-right: 270px;
+    padding-left: 30px;
+    border-radius: 50px;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.btn_1 {
+    background-color:white;
+    border-radius: 15px;
+}
